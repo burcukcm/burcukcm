@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java and CSS
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Java and CSS
+- 🥅 2023 Goals: Learn more about java,javascript and bootstap
+- ⚡ Fun fact: i am into at make puzzle,cooking meal and listen Arctic Monkeys
 
 ![van-gogh-starry-night](https://user-images.githubusercontent.com/96121254/231749728-0382aaf3-c0d7-4e82-8d21-3234333bc5a2.gif)
