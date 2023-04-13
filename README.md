@@ -26,5 +26,5 @@ Here are some ideas to get you started:
  
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-[<img align="left" alt="HTML" width="26px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />][HTML]
+[<img align="left" alt="HTML" width="30px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />
 
