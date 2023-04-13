@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Java and CSS
+- !(https://github-readme-stats.vercel.app/api?username=burcukcm &show_icons=true&theme=transparent)
