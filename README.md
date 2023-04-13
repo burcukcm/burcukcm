@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burcukcm&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="burcukcm"/>
  
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=burcukcm&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="burcukcm"/>
+ 
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img align="left" alt="HTML" width="30px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />
