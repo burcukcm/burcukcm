@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Burcu. I'm computer engineering student .
+I am Burcu. I'm computer engineering student . [gmail]: mailto:demiribrahimtalha@gmail.com
 
 <!--
 **burcukcm/burcukcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
  
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[<img align="left" alt="HTML" width="26px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />][HTML]
 
