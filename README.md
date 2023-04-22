@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java and CSS
+- 🌱 I’m currently learning Java and CSS and JS
 - 🥅 2023 Goals: Learn more about java,javascript and bootstap
 - ⚡ Fun fact: i am into at make puzzle,cooking meal and listen Arctic Monkeys
 
