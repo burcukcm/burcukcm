@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Java and CSS and JS
-- 🥅 2023 Goals: Learn more about java,javascript and bootstap
+- 🥅 2023 Goals: Learn more about java,javascript and bootstrap
 - ⚡ Fun fact: i am into at make puzzle,cooking meal and listen Arctic Monkeys
 
 ![van-gogh-starry-night](https://user-images.githubusercontent.com/96121254/231749728-0382aaf3-c0d7-4e82-8d21-3234333bc5a2.gif)
