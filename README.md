@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Burcu. I'm computer engineering student . [gmail]: mailto:burcukocaman175@gmail.com
+I am Burcu. I'm computer engineering student .
 
 <!--
 **burcukcm/burcukcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
