@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Jflutter
+- 🌱 I’m currently learning flutter
 - ⚡ Fun fact: i am into at make puzzle,cooking meal and listen Arctic Monkeys
 
 ![van-gogh-starry-night](https://user-images.githubusercontent.com/96121254/231749728-0382aaf3-c0d7-4e82-8d21-3234333bc5a2.gif)
