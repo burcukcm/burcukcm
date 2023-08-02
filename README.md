@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img align="left" alt="HTML" width="30px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
-<img align="left" alt="CSS" width="30px" height="30px" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png" />
+<img align="left" alt="CSS" width="35px" height="30px" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png" />
 
 
